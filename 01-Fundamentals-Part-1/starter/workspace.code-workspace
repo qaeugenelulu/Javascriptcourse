@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../WebdriverIO/WebdriverIO-ecom-na"
+		},
+		{
+			"path": "../../../../WebdriverIO-Ts-ecom-na"
+		},
+		{
+			"path": "../../../../Cypress1"
+		},
+		{
+			"path": "../../../../cypress-ecom-na"
+		},
+		{
+			"path": "../../../../ngx-cypress-test"
+		},
+		{
+			"path": "../../../../Webdeveloper"
+		},
+		{
+			"path": "../../../../Javascriptcourse"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Learning"
+	}
+}
