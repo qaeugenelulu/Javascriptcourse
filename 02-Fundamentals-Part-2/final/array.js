@@ -101,3 +101,4 @@ function calcTips (bill){
 const tips = new Array(calcTips(bills[0]),calcTips(bills[1]),calcTips(bills[2]));
 
 console.log(bills, tips);
+cosnt total = [bills[0]+tips[0],bills[1]+tips[1],bills[2]+tips[2]]
